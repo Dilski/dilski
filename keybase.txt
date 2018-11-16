@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/dilski
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://dilski.com
+  * I am dilski (https://keybase.io/dilski) on keybase.
+  * I have a public key with fingerprint 86C7 8F45 D2DF 152E C0CD  993E 38BE 57FF D4C9 698D
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101d002eafd008cdea25d46514bb67bf3c49b36340935c90d10f0d4df8249d8e93f0a",
+      "fingerprint": "86c78f45d2df152ec0cd993e38be57ffd4c9698d",
+      "host": "keybase.io",
+      "key_id": "38be57ffd4c9698d",
+      "kid": "0101d002eafd008cdea25d46514bb67bf3c49b36340935c90d10f0d4df8249d8e93f0a",
+      "uid": "fad6a66464a1d1c151340c9720a6fd19",
+      "username": "dilski"
+    },
+    "service": {
+      "hostname": "dilski.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1542393328,
+  "expire_in": 157680000,
+  "prev": "9fc3f5dee1f3181471a3eef31482167a465e473029a225ea97aae5b57f518f7f",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.80
+Comment: https://keybase.io/crypto
+
+yMIgAnicrVJNSFVBGH2aZhlSWghqElwTpSevO/f/PiXDiNKEwMoyrdfcOzN6/bn3
++d71mYqlWNqmIMOsjSD5skULCyGIpPxB8q+NYUgpumnjQheZUJTNlVoELZvNN/PN
+OWfOd5ixuG2u2IjqiaLzx7Tmjoip4Xt1rtLVuLUmRrNQA+NtYqrwVsHVCAdtX5WB
+GC/DAhYgluUwJLQoOsKQE5EgiUDQNEnWCK8LqsZLvMCqvKirLAIsYZGAiMIJKlKw
+yhMWMlkMMcxyHPAHDNOmsoqkywoRRMQhAkQO66yOVJXHvKJhUSYECboqqQqixAor
+6DCoOQ0GscewaI8efFv2/oH/z77rtuQIRBKUJEESIEBAByKgRF2VORZKBAHVAQZx
+wIQ1mKKRUR2sMpjmLIb2QoaOnVidOf669+hWDeX5A5Zt6VY17VfYtj/odXh2g98B
+1mPN91vCpxkmohlSRggHgoZlMl5AkbptOJpAFDhe5XlOyWLwVb8RwD7DQYiypLB0
+Oe/gEJVUic4TEWEMCA8UIMgA8hjTvaBwQJIhjQgLMs9yKuQ4EUNVhhCLGg1ZBAqR
+CeMMVWtajFekNmE5lQwa5Sa06wKYaR55Uxblioh1bY+OdP6WK3bnnj8/rr0y5qen
+JH5+0e6I7vI86Pv48IuRsHljJf8HGenpeQL0SX+B3R8/3LsyNplcvHc8pw/1uG9n
+ZbcXPUqcnj4ZeWJW6Uq9spwxkbY8dODm9fi2/MaBr7P3N2yzZfDZ6cH8XZkNKTNz
+7g/v02Zyk+625vS+vbaeOdTZlx7eIe+LmV3aXx/oPpg3mrGSyx3OLju18Pn5haE9
+j89cTH7H4Fe5qxWe9d1JqYW1y5fMIv1WVIV7KWUiLKSD8OycNzw93tmfFxdbcvRp
+y/e2samBheHLid7khMLW9LzGzeKzL+qPt34aPXTO3x1ag03h0Hhpd+niWMHLnlXw
+ev7bkY2RXLe/MrtWuvMLBHE9cw==
+=XpE3
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dilski
+
+==================================================================
